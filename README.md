@@ -26,9 +26,6 @@
 <a href="https://leetcode.com/code_soham/">
   <img align="left" alt="Soham Chowdhury - Leetcode" width="40px" src="https://api.iconify.design/cib:leetcode.svg?height=24"/>
 </a>
-<a href="https://atcoder.jp/users/code_soham">
-  <img align="left" alt="Soham Chowdhury - AtCoder" width="40px" src="https://api.iconify.design/cib:leetcode.svg?height=24"/>
-</a>
 
 <br><br>
 
