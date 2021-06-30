@@ -34,6 +34,7 @@
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img align="left" alt="AngularJs" width="40px" src="https://api.iconify.design/logos:angular-icon.svg"/>
 <img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:react.svg"/>
+<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/240/000000/mongodb.png"/>
 <img align="left" alt="Postman" width="40px" src="https://api.iconify.design/logos:postman.svg"/>
 <img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/cib:adobe-premiere.svg"/>
 <img align="left" alt="VSCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
