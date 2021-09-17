@@ -63,8 +63,8 @@
 
 
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-soham&show_icons=true&theme=cobalt)
-<br>
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-soham&show_icons=true&theme=radical)
+
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=code-soham&theme=darcula&hide_border=false&background=FFFFFF00">
 
