@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hey+there!;Welcome+to+my+profile!;I'm+Soham.+A+CP+enthusiast+from+JGEC%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hey+there!;Welcome+to+my+profile!;+I'm+Soham,+A+CP+enthusiast+from+JGEC%2C+India)](https://git.io/typing-svg)
 <br>
 ![](https://komarev.com/ghpvc/?username=code-soham)
 
