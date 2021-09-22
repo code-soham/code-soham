@@ -76,7 +76,7 @@
 
 ## My most popular repositories :
 
-<a href="https://github.com/code-soham/JottPad-v2.0">
+<a href="https://github.com/code-soham/JottPad">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=code-soham&repo=JottPad-v2.0" />
 </a>
 
