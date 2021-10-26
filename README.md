@@ -74,20 +74,4 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-soham&layout=compact">
   <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-soham&layout=compact" />
 </a>
-
-## My most popular repositories :
-
-<a href="https://github.com/code-soham/JottPad">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=code-soham&repo=JottPad-v2.0" />
-</a>
-
-
-<a href="https://github.com/code-soham/COMMUNIK8">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=code-soham&repo=COMMUNIK8" />
-</a>
-
-
-<a href="https://github.com/code-soham/Drum-kit">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=code-soham&repo=Drum-kit" />
-</a>
-<br><br><br><br>
+<br><br>
