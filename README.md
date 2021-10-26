@@ -66,6 +66,7 @@
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-soham&show_icons=true&theme=radical)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=code_soham&layout=compact&theme=dracula" />
 
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=code-soham&theme=darcula&hide_border=false&background=FFFFFF00">
 
