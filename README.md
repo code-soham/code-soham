@@ -51,7 +51,7 @@
 ### About Me :
 
 
-● Currently persuing B.Tech in Information Technology 👨🏻‍🎓🏛.
+● Sophomore pursuing B.Tech in Information Technology 👨🏻‍🎓🏛.
 
 ● Competitive Programming Enthusiast 👨🏽‍💻.
 
@@ -59,7 +59,7 @@
 
 ● Eager to Learn new techs 🕵🏻‍♂️.
 
-● NO I am not not a geek😂.
+● MERN STACK DEVELOPMENT ENTHUSIAST
 
 
 
