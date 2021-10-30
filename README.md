@@ -68,6 +68,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=code_soham&layout=compact&theme=dracula" />
 (since 26/10/21)
+<br>
+<br>
+<br>
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=code-soham&theme=darcula&hide_border=false&background=FFFFFF00">
 
 <br><br>
