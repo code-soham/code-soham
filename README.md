@@ -18,32 +18,24 @@
 <a href="https://www.instagram.com/soham_hasnt">
   <img align="left" alt="Soham Chowdhury - Instagram" width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
 </a>
-<a href="https://www.codechef.com/users/code_soham">
-  <img align="left" alt="Soham Chowdhury - Codechef" width="40px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
-</a>
-<a href="https://codeforces.com/profile/code_soham">
-  <img align="left" alt="Soham Chowdhury - Codeforces" width="40px" src="https://api.iconify.design/simple-icons:codeforces.svg?height=24"/>
-</a>
-<a href="https://leetcode.com/code_soham/">
-  <img align="left" alt="Soham Chowdhury - Leetcode" width="40px" src="https://api.iconify.design/cib:leetcode.svg?height=24"/>
-</a>
+
 
 <br><br>
 
 ### My daily used-tech :
-
-<img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-<img align="left" alt="AngularJs" width="40px" src="https://api.iconify.design/logos:angular-icon.svg"/>
-<img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:react.svg"/>
-<img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/240/000000/mongodb.png"/>
-<img align="left" alt="Postman" width="40px" src="https://api.iconify.design/logos:postman.svg"/>
-<img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/cib:adobe-premiere.svg"/>
-<img align="left" alt="VSCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
-<img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:sublimetext-icon.svg"/>
-<img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:github-octocat.svg"/>
-<img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/>
-<img align="left" alt="HTML" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/>
-<img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></a>
+<a href="https://angular.io/"><img align="left" alt="AngularJs" width="40px" src="https://api.iconify.design/logos:angular-icon.svg"/></a>
+<a href="https://reactjs.org/"><img align="left" alt="ReactJs" width="40px" src="https://api.iconify.design/logos:react.svg"/></a>
+<a href="https://nodejs.org/en/"><img align="left" alt="nodeJs" width="40px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-nodejs-logo-27.png"/></a>
+<a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="40px" src="https://img.icons8.com/color/240/000000/mongodb.png"/></a>
+<a href="https://www.postman.com/"><img align="left" alt="Postman" width="40px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/></a>
+<a href="https://www.adobe.com/in/products/premiere.html?sdid=STLMM87Z&mv=search&ef_id=CjwKCAjwoP6LBhBlEiwAvCcthCGEOHA_wzR_SZfTOc2tAZjHjlXPKiE5q00sJ7qVHr9csIHsXA_8MBoCKI8QAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824156!e!!g!!premiere%20pro!221167988!17525565668&gclid=CjwKCAjwoP6LBhBlEiwAvCcthCGEOHA_wzR_SZfTOc2tAZjHjlXPKiE5q00sJ7qVHr9csIHsXA_8MBoCKI8QAvD_BwE"><img align="left" alt="Premiere" width="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v2.png"/></a>
+<a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/></a>
+<a href="https://www.sublimetext.com/"><img align="left" alt="Sublime" width="40px" src="https://api.iconify.design/logos:sublimetext-icon.svg"/></a>
+<a href="https://github.com/"><img align="left" alt="Github" width="40px" src="https://api.iconify.design/logos:github-octocat.svg"/></a>
+<a href="https://isocpp.org/"><img align="left" alt="C++" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png"/><a>
+<a href="https://www.w3schools.com/html/"><img align="left" alt="HTML" width="40px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/></a>
+<a href="https://www.tutorialspoint.com/cprogramming/index.htm"><img align="left" alt="C" width="40px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"/></a>
 
  
  <br><br>
