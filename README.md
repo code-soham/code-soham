@@ -51,7 +51,7 @@
 
 ● Eager to Learn new techs 🕵🏻‍♂️.
 
-● MERN STACK DEVELOPMENT ENTHUSIAST
+● MERN STACK DEVELOPER
 
 
 
