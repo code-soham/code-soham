@@ -59,7 +59,7 @@
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-soham&show_icons=true&theme=radical)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=code_soham&layout=compact&theme=dracula" />
-(since 26/10/21)
+  My Weekly Coding Stats
 <br>
 <br>
 <br>
