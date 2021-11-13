@@ -53,11 +53,11 @@
 
 ● MERN STACK DEVELOPER
 
-
-
-
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-soham&show_icons=true&theme=radical)
-
+<br>
+  
+[![wakatime](https://wakatime.com/badge/user/a3b47685-64e4-451c-9f82-029ff94c4c72.svg)](https://wakatime.com/@a3b47685-64e4-451c-9f82-029ff94c4c72)
+  <br>
 <img src="https://wakatime.com/share/@code_soham/9802942b-c359-4ae3-a965-2bdff1cca0a7.svg" height="500px" alt= "Wakatime Language Stats"/>
 <br>
 <br>
@@ -65,7 +65,7 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=code-soham&theme=darcula&hide_border=false&background=FFFFFF00">
 
 <br><br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-soham&layout=compact">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=code-soham&layout=compact">
   <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-soham&layout=compact" />
 </a>
 <br><br>
