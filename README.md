@@ -58,8 +58,7 @@
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-soham&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=code_soham&layout=compact&theme=dracula" />
-  My Weekly Coding Stats
+<img src="https://wakatime.com/share/@code_soham/9802942b-c359-4ae3-a965-2bdff1cca0a7.svg" height="500px" alt= "Wakatime Language Stats"/>
 <br>
 <br>
 <br>
