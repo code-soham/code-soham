@@ -67,5 +67,5 @@
   <img align="mid" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-soham&layout=compact" />
 </a>
 <br><br>
-[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=code-soham&theme=cotton)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=code-soham&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
