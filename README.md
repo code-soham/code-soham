@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hey+there!;Welcome+to+my+profile!;+I'm+Soham,+A+CP+enthusiast+from+JGEC%2C+India)](https://git.io/typing-svg)
 <br>
 ![](https://komarev.com/ghpvc/?username=code-soham)
-
+[![wakatime](https://wakatime.com/badge/user/a3b47685-64e4-451c-9f82-029ff94c4c72.svg)](https://wakatime.com/@a3b47685-64e4-451c-9f82-029ff94c4c72)
 <h3 align="left">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/code_soham">
   <img align="left" alt="Soham Chowdhury - LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
