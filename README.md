@@ -49,7 +49,7 @@
 
 ● Ask me about C++💻.
 
-● Eager to Learn new techs 🕵🏻‍♂️.
+● Eager to Learn new techs stacks and skills 🕵🏻‍♂️.
 
 ● MERN STACK DEVELOPER
 
