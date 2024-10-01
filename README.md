@@ -43,15 +43,13 @@
 ### About Me :
 
 
-● Sophomore pursuing B.Tech in Information Technology 👨🏻‍🎓🏛.
+● B.Tech Graduate from Jalpaiguri Government Engineering College👨🏻‍🎓🏛.
 
 ● Competitive Programming Enthusiast 👨🏽‍💻.
 
-● Ask me about C++💻.
+● Learning something new every day 🕵🏻‍♂️.
 
-● Eager to Learn new techs stacks and skills 🕵🏻‍♂️.
-
-● MERN STACK DEVELOPER
+● Experience in working with MERN Stack, Sveltekit & NestJS
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-soham&show_icons=true&theme=radical)
 <br>
